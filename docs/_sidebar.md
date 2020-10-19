@@ -1,5 +1,5 @@
 - Nginx
-	- [nginx安装](nginx/nginx安装.md)
+	- [Nginx入门一：Nginx简介和安装](nginx/Nginx简介和安装.md)
 	- [nginx信号量](nginx/nginx信号量.md)
 - JVM
 	- [class文件](JVM/Class文件.md)
