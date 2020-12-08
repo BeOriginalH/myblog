@@ -4,3 +4,5 @@
 - JVM
 	- [class文件](JVM/Class文件.md)
 	- [类加载](JVM/类加载机制.md)
+- 设计模式
+	- [单例模式](designPatterns/单例模式.md)
