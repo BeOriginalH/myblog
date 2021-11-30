@@ -11,3 +11,10 @@
    - [面试题-线程基础](并发编程/面试题-线程基础.md)
    - [面试题-线程池](并发编程/面试题-线程池.md)   
    - [面试题-ThreadLocal](并发编程/面试题-ThreadLocal.md)
+
+- Redis 
+
+- MySQL
+
+- RocketMQ
+
